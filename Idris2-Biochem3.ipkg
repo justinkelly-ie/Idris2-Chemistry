@@ -1,0 +1,33 @@
+package Idris2-Biochem3
+version = 0.3.0
+authors = "Justin Kelly"
+brief   = "Layer 4b Macromolecular Chemistry & Biophysical Systems Subsystem."
+
+depends = base
+        , Idris2-Multiset0
+        , Idris2-Multiset1
+        , Idris2-Physics3
+        , Idris2-Hadron3
+
+sourcedir = "src"
+
+modules = Compound.MolecularBonding
+        , Compound.HydrogenBonding
+        , Compound.WatsonCrickBasePairing
+        , Compound.MacromolecularChirality
+        , Compound.MacromolecularAssembly
+        , Compound.Biomolecules
+        , Compound.BiophysicalAggregation
+        , Compound.MolecularAggregation
+        , Compound.HierarchicalMatterPipeline
+        , Compound.UniversalAlgebraTRS
+        , Math.DiscreteMichaelisMenten
+        , Math.DiscreteHodgkinHuxley
+        , Math.DiscreteMonodWymanChangeux
+        , Math.DiscreteRibosomalTranslation
+        , Math.DiscreteWatsonCrick
+        , Math.DiscreteMacromolecularChirality
+        , Math.DiscreteHydrogenBonding
+        , Math.DiscreteTripleAlphaNucleosynthesis
+        , Math.DiscreteIron56PeakBinding
+        , Math.DiscretePlasmaRecombination
