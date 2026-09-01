@@ -20,6 +20,7 @@ modules = Compound.MolecularBonding
         , Compound.BiophysicalAggregation
         , Compound.MolecularAggregation
         , Compound.HierarchicalMatterPipeline
+        , Compound.ActiveInferenceNeuralNetwork
         , Compound.UniversalAlgebraTRS
         , Math.DiscreteMichaelisMenten
         , Math.DiscreteHodgkinHuxley
