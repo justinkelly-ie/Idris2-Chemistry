@@ -1,4 +1,4 @@
-module Math.DiscretePlasmaRecombination
+module Math.PlasmaRecombination
 
 import Core.BoxInt
 import Core.VexelMaxel

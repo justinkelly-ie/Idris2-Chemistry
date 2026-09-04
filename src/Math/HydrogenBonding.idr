@@ -1,4 +1,4 @@
-module Math.DiscreteHydrogenBonding
+module Math.HydrogenBonding
 
 import Core.BoxInt
 import Math.LinAlgebra.MetricTensor

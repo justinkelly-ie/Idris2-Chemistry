@@ -1,4 +1,4 @@
-module Math.DiscreteWatsonCrick
+module Math.NucleicAcidBasePairing
 
 import Core.BoxInt
 import Core.UnixelFraction

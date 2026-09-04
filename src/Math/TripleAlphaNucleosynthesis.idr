@@ -1,4 +1,4 @@
-module Math.DiscreteTripleAlphaNucleosynthesis
+module Math.TripleAlphaNucleosynthesis
 
 import Core.BoxInt
 import Data.List

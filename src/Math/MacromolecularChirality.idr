@@ -1,4 +1,4 @@
-module Math.DiscreteMacromolecularChirality
+module Math.MacromolecularChirality
 
 import Core.BoxInt
 import Data.List

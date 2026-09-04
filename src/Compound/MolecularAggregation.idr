@@ -5,7 +5,7 @@ import Core.Multiset
 import Core.UnixelFraction
 import Core.TransformMultiset
 import Math.LawAlgebra
-import public Math.DiscreteHydrogenBonding
+import public Math.HydrogenBonding
 import Data.List
 
 %default total
@@ -78,4 +78,4 @@ aggregateWaterMolecule =
 %inline
 public export
 auditMolecularAggregationProof : Bool
-auditMolecularAggregationProof = Math.DiscreteHydrogenBonding.isTetrahedralWaterPercolation 4
+auditMolecularAggregationProof = Math.HydrogenBonding.isTetrahedralWaterPercolation 4

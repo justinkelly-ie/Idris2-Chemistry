@@ -1,4 +1,4 @@
-module Math.DiscreteIron56PeakBinding
+module Math.PeakBindingEnergy
 
 import Core.BoxInt
 import Data.List
