@@ -17,6 +17,7 @@ modules = Compound.MolecularBonding
         , Compound.MacromolecularChirality
         , Compound.MacromolecularAssembly
         , Compound.Biomolecules
+        , Compound.ChemistryScaleTransforms
         , Compound.MolecularAggregation
         , Math.HydrogenBonding
         , Math.PeakBindingEnergy
